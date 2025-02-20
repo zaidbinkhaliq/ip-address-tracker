@@ -8,7 +8,7 @@ const ispInput = document.querySelector('.ispInput')
 const submitBtn = document.querySelector('.submit-btn')
 const inputField = document.querySelector('.input-field')
 
-//Map
+//Maps
 
 let map = L.map('map').setView([51.505, -0.09], 13)
 
